@@ -1,0 +1,122 @@
+[
+  {
+    "image": "https://images.pexels.com/photos/1751731/pexels-photo-1751731.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "name": "Ruben",
+    "instructor_name": "Liddiatt",
+    "price": 650,
+    "category": "popular",
+    "available_seat": 10
+  },
+  {
+    "image": "https://images.pexels.com/photos/210779/pexels-photo-210779.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "name": "Vick",
+    "instructor_name": "Strewther",
+    "price": 200,
+    "category": "popular",
+    "available_seat": 20
+  },
+  {
+    "image": "https://images.pexels.com/photos/10933696/pexels-photo-10933696.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "name": "Nicolai",
+    "instructor_name": "Itzak",
+    "price": 100,
+    "category": "popular",
+    "available_seat": 34
+  },
+  {
+    "image": "https://images.pexels.com/photos/995301/pexels-photo-995301.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "name": "Karalee",
+    "instructor_name": "Deaville",
+    "price": 40,
+    "category": "popular",
+    "available_seat": 40
+  },
+  {
+    "image": "https://images.pexels.com/photos/995301/pexels-photo-995301.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "name": "Rob",
+    "instructor_name": "Ploughwright",
+    "price": 350,
+    "category": "popular",
+    "available_seat": 55
+  },
+  {
+    "image": "https://images.pexels.com/photos/210779/pexels-photo-210779.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "name": "Henry",
+    "instructor_name": "McGuggy",
+    "price": 20,
+    "category": "popular",
+    "available_seat": 6
+  },
+  {
+    "image": "https://images.pexels.com/photos/1751731/pexels-photo-1751731.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "name": "Tobi",
+    "instructor_name": "Tynewell",
+    "price": 40,
+    "category": "non-popular",
+    "available_seat": 7
+  },
+  {
+    "image": "https://images.pexels.com/photos/1751731/pexels-photo-1751731.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "name": "Suzann",
+    "instructor_name": "Tripney",
+    "price": 80,
+    "category": "non-popular",
+    "available_seat": 8
+  },
+  {
+    "image": "https://images.pexels.com/photos/10933696/pexels-photo-10933696.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "name": "Livvyy",
+    "instructor_name": "Danneil",
+    "price": 300,
+    "category": "non-popular",
+    "available_seat": 9
+  },
+  {
+    "image": "https://images.pexels.com/photos/1751731/pexels-photo-1751731.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "name": "Norton",
+    "instructor_name": "Edgeon",
+    "price": 130,
+    "category": "non-popular",
+    "available_seat": 10
+  },
+  {
+    "image": "https://images.pexels.com/photos/210779/pexels-photo-210779.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "name": "Hew",
+    "instructor_name": "Ackhurst",
+    "price": 800,
+    "category": "non-popular",
+    "available_seat": 11
+  },
+  {
+    "image": "https://images.pexels.com/photos/210779/pexels-photo-210779.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "name": "Callean",
+    "instructor_name": "Crowche",
+    "price": 55,
+    "category": "non-popular",
+    "available_seat": 12
+  },
+  {
+    "image": "https://images.pexels.com/photos/210779/pexels-photo-210779.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "name": "Nikki",
+    "instructor_name": "Gadeaux",
+    "price": 500,
+    "category": "non-popular",
+    "available_seat": 13
+  },
+  {
+    "image": "https://images.pexels.com/photos/210779/pexels-photo-210779.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "name": "Jessee",
+    "instructor_name": "Cockett",
+    "price": 550,
+    "category": "non-popular",
+    "available_seat": 14
+  },
+  {
+    "image": "https://images.pexels.com/photos/995301/pexels-photo-995301.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "name": "Marianne",
+    "instructor_name": "Annandale",
+    "price": 450,
+    "category": "non-popular",
+    "available_seat": 15
+  }
+]
